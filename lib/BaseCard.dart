@@ -36,7 +36,7 @@ class BaseCardState extends State<BaseCard> {
             topTitle("推荐和头部")
           ],
         ),
-        subTitle("本周推荐")
+        subTitle("本周推荐页面")
       ],
     ));
   }
